@@ -3,8 +3,8 @@
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
   width: 1110px;
-  min-height: 293px;
   margin: 0 auto;
+  padding: 92px 0;
   font-size: 18px;
   font-weight: 400;
 }
